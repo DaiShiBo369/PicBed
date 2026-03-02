@@ -1,2 +1,2 @@
 # PicBed
-my PicGo image bed for hexo blog
+my PicGo image bed 
